@@ -1,7 +1,7 @@
 # Semana 9 · Exploración de Chinook con SQL (PostgreSQL)
 
-**Nombre:** Edgar Vicente
-**Sección:** [Tu sección]
+**Nombre:** Edgar Oswaldo Quiche Vicente
+**Sección:** [base de datos exploracion]
 
 ## Requisitos
 - PostgreSQL 16 (corriendo en contenedor Docker)
