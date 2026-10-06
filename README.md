@@ -45,5 +45,5 @@ Todas las sentencias son de **solo lectura**; no se modifican datos.
 | 10 | CASE | Reparto de clientes por equipo de soporte | 2 |
 
 ## Video
-Enlace: [Pegar aquí la URL de tu video]
+Enlace: https://drive.google.com/file/d/1UIdXslU6EpsLUh_fNS0SJ9PHiK0T6Qh1/view?usp=drive_link
 Capítulos: 00:00 conexión · 02:00 apartados 1-4 · 05:00 apartados 5-7 · 08:00 apartados 8-10
